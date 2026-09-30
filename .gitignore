@@ -1,4 +1,5 @@
 /Assets/*
+/Assets/**/
 !/Assets/*.cs
 !/Assets/Scripts/
 /Assets/Scripts/*
